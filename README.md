@@ -1,4 +1,5 @@
 ## Hi there 👋
+<p align="right"><a href="https://discord.com/users/545907019807326208"><img src="https://lanyard.cnrad.dev/api/545907019807326208?idleMessage=They%20call%20me%20the%20drink!&theme=dark&hideStatus=true&hideSpotify=true&hideActivity=false" /></a></p>
 
 <!--
 **Aztrob/aztrob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
